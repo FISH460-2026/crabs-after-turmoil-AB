@@ -3,15 +3,9 @@ project:
   render:
     - index.qmd
 
-execute:
-  freeze: auto
-
 format:
   html:
     toc: true
     comments:
       hypothesis: true
     notebook-links: false
-  docx: default
-  jats: default
-  agu-pdf: default
