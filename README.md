@@ -1,4 +1,4 @@
-#How Does Anthropogenic Noise Pollution Induce Physiological Stress in Hairy Shore Crabs?
+How Does Anthropogenic Noise Pollution Induce Physiological Stress in Hairy Shore Crabs?
 
 By quantifying the effects of anthropogenic noise pollution on the respiration rate of Hemigrapsus in the intertidal, we can start to understand how various stressors via noise pollution affect crab health. As floating concerts increase in popularity, this study can help us understand the effects of events like this on Hemigraphsus.
 
